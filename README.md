@@ -14,6 +14,7 @@ conda create -n detection python=3.8
 conda activate detection
 
 clone the repo from ultralytics/yolov5
+git clone https://github.com/ultralytics/yolov5
 
 <h2>Install dependencies from the requirements.txt file</h2>
 pip install -r requirements.txt!
