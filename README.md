@@ -25,6 +25,7 @@ while creating the project select Object detection.
 <h2>Structuring Data for Training</h2>
 Ensure your data is structured as follows:
 
+
 <p align="center">
   <img src="https://github.com/Akhilsunny212/Segmentation-using-YOLO-v7-cpu/blob/main/image_path.png?raw=true" >
 </p>
