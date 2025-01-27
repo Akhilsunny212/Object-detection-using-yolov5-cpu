@@ -19,7 +19,6 @@ git clone https://github.com/ultralytics/yolov5
 <h2>Install dependencies from the requirements.txt file</h2>
 pip install -r requirements.txt!
 
-
 <h2>Preparing the Data</h2>
 Obtain the dataset from Kaggle and use the Roboflow tool for image annotation.
 while creating the project select Object detection.
