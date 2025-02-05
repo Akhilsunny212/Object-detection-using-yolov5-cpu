@@ -13,6 +13,7 @@ Set up the workspace where you're operating; I've set it up using Anaconda.
 conda create -n detection python=3.8
 conda activate detection
 
+
 clone the repo from ultralytics/yolov5
 git clone https://github.com/ultralytics/yolov5
 
